@@ -1,6 +1,6 @@
 ## Available API`s 
 
-###'1) Register API'
+### 1) Register API
 Registers the new User and Signs the JWT <br/>
 ###'2) Login API'
 Logs the new User and returns the JWT <br/>
