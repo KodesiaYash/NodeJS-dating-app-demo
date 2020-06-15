@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ldappostgres",
+    "database": "dev_user",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432 ,
+    "pool":10 ,
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "ldappostgres",
+    "database": "test_user",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432 ,
+    "pool":10 ,
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "ldappostgres",
+    "database": "prod_user",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432 ,
+    "pool":10 ,
+    "operatorsAliases": false
+  }
+}

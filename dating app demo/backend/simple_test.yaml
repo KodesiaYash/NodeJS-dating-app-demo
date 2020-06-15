@@ -1,0 +1,4 @@
+config:
+  target: "http://localhost:5000/"
+  socketio:
+    query: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJkYjNlMjY4Ni0wNGI3LTRlZGYtODg4Mi04MmViY2E1ZTczM2YiLCJzZXgiOiJtYWxlIiwiaWF0IjoxNTkyMTQwOTI5LCJleHAiOjE1OTIyMjczMjl9.9FHH3DV1Lgw_j2NhhYW3hJCb2ukorcOIqTv2mrOtEqY"
